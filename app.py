@@ -48,6 +48,7 @@ def get_ip_adapter_image(ip_adapter_image):
         PIL.Image: The IP adapter image (returned directly).
     """
     sd_pipeline.load_ip_adapter("h94/IP-Adapter", subfolder="models", weight_name="ip-adapter-plus_sd15.bin")
+    sd_pipeline.set_ip_adapter_scale(0.7)
     return ip_adapter_image
 
 # Function to resize images
