@@ -1,6 +1,6 @@
-Interior Renovation Ai | รีโนเวทห้องด้วย Ai
+Interior Renovation Ai | Tạo ảnh nội thất AI
 
-เป็นโปรเจคที่ผมทำขึ้นเพื่อเรียนรู้การสร้างโปรแกรมสำหรับเจนภาพด้วยตัวเอง
+Công cụ tạo ảnh nội thất đơn giản dành cho dân nghiệp dư
 
-ติดตามอัพเดทเกี่ยวกับเทคโนโลยี Ai ที่ Facebook/promptalchemist
+Facebook nhóm Học Viện AI : https://www.facebook.com/groups/hvaisd
 
