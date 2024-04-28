@@ -113,7 +113,7 @@ with gr.Blocks(title="Exterior and Interior Renovation Ai") as demo:
     with gr.Row():
         depth_map = gr.Image(label="Room", type="pil", height=500, width=500)
         ip_adapter_image = gr.Image(label="Reference", type="pil", height=500, width=500)
-        output_image = gr.Image(label="Output", type="pil", height=500, width=500) 
+        output_image = gr.Image(label="Output", type="pil", height=500, width=500,format="png" ) 
 
     steps = gr.Slider(0, 100, value=30, label="Steps")
     seed = gr.Number(value=33, label="Seed")
